@@ -90,17 +90,7 @@ See detailed information [here][gcm-http-proxy].
 
 ## Additional Resources
 
-See the [documentation index][docs-index] for links to additional resources.
-
-## Experimental Features
-
-- [Windows broker (experimental)][gcm-windows-broker]
-
-## Future features
-
-Curious about what's coming next in the GCM project? Take a look at the [project
-roadmap][roadmap]! You can find more details about the construction of the
-roadmap and how to interpret it [here][roadmap-announcement].
+See the [documentation index][docs-i
 
 ## Contributing
 
